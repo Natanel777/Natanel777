@@ -40,9 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natanel777&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanel777&" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -56,4 +53,3 @@
   Android App Development (Kotlin, Java) | Full-Stack Web Development (HTML, CSS, JavaScript, React)
 </p>
 
-<h2 align="center">Thank You ❤️ </h2>
