@@ -43,13 +43,4 @@
 
 ---
 
-<h2 align="center">Feel Free to Ask Me 💬</h2>
-
-<p align="center">
-  If you have any questions or need assistance, feel free to reach out to me! I'm here to help with anything related to:
-</p>
-
-<p align="center">
-  Android App Development (Kotlin, Java) | Full-Stack Web Development (HTML, CSS, JavaScript, React)
-</p>
 
