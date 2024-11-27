@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to Natanel's GitHub Profile 🚀</h1>
+<h1 align="center"> Welcome to Natanel's GitHub Profile</h1>
 
 <p align="center">Passionate Android & Full-Stack Web Developer | Specializing in Kotlin, Java, and Modern Web Technologies</p>
 
